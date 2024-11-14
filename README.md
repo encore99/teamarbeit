@@ -97,8 +97,6 @@ Der PC soll als Arbeitsstation für die Bearbeitung von hochauflösendem Foto- u
 
 Dieses Lastenheft beschreibt die grundlegenden Anforderungen für die PC-Konfiguration und dient als Basis für die Detailplanung und Auswahl der Komponenten.
   
-### 2. Pflichtenheft
-
 Hier ist das Pflichtenheft inklusive der Konfigurationsliste für den PC eines Fotografen, Videografen und YouTubers mit einem Budget von 2200 €.
 
 ---
@@ -131,6 +129,71 @@ Hier ist das Pflichtenheft inklusive der Konfigurationsliste für den PC eines F
 
 ---
 
+### **2. Netzteil-Berechnung**
+
+Für die Netzteil-Berechnung addieren wir die Leistungsaufnahme der einzelnen Komponenten:
+
+- **CPU**: 105 W
+- **GPU**: 200 W
+- **RAM**: 2 x 5 W = 10 W
+- **SSD**: 2 x 5 W = 10 W
+- **Mainboard**: 50 W
+- **Lüfter**: 3 x 5 W = 15 W
+- **Reserve**: 100 W
+
+**Gesamter Stromverbrauch**: 490 W
+
+Empfohlenes Netzteil: **750 W**, um eine ausreichende Reserve für zukünftige Erweiterungen und Stabilität zu gewährleisten.
+
+---
+
+### **3. Anforderungen und Begründungen**
+
+1. **Prozessor (CPU)**:
+   - **Begründung**: Der AMD Ryzen 9 5900X bietet starke Multithreading-Fähigkeiten für Anwendungen wie Adobe Premiere Pro und Photoshop, die hohe Rechenleistung erfordern.
+
+2. **Grafikkarte (GPU)**:
+   - **Begründung**: Die NVIDIA GeForce RTX 3060 Ti unterstützt CUDA-Beschleunigung, was für Rendering und Videobearbeitung wichtig ist.
+
+3. **Arbeitsspeicher (RAM)**:
+   - **Begründung**: 32 GB RAM sind notwendig für Multitasking und große Mediendateien. Die RAM-Kapazität kann später bei Bedarf aufgerüstet werden.
+
+4. **Speicher**:
+   - **Begründung**: Die primäre NVMe SSD ermöglicht schnelle Ladezeiten für Betriebssystem und Anwendungen, während die sekundäre SSD ausreichend Speicher für Projektdateien bietet.
+
+5. **Mainboard**:
+   - **Begründung**: Das ASUS TUF Gaming B550-PLUS unterstützt PCIe 4.0 und bietet mehrere Anschlüsse und Erweiterungsmöglichkeiten.
+
+6. **Netzteil**:
+   - **Begründung**: Ein 750W-Netzteil sorgt für eine stabile und effiziente Stromversorgung und bietet genug Reserven.
+
+7. **Gehäuse**:
+   - **Begründung**: Das Fractal Design Define R5 ist schallgedämmt und sorgt für leisen Betrieb.
+
+8. **Monitor**:
+   - **Begründung**: Der Dell UltraSharp U2720Q bietet 4K-Auflösung und hohe Farbgenauigkeit, ideal für professionelle Bildbearbeitung.
+
+9. **Kühlung**:
+   - **Begründung**: Der Be Quiet! Dark Rock 4 sorgt für leisen Betrieb und eine effiziente Kühlung der CPU.
+
+---
+
+### **4. Energieeffizienz und Lautstärke**
+
+- **Lautstärke**: Alle Komponenten, insbesondere Netzteil, Gehäuse und CPU-Kühler, wurden so gewählt, dass der Betrieb des PCs so leise wie möglich bleibt.
+- **Energieeffizienz**: Alle Hauptkomponenten sind energieeffizient und unterstützen Energiesparmodi im Idle-Zustand.
+
+---
+
+### **5. Aufrüstbarkeit**
+
+- **Arbeitsspeicher**: Aufrüstbar auf 64 GB.
+- **Speicher**: Möglichkeit zum Einbau zusätzlicher SSDs und Festplatten.
+- **Erweiterungskarten**: Mainboard unterstützt zusätzliche PCIe-Karten.
+
+---
+
+Dieses Pflichtenheft enthält die detaillierte Konfigurationsliste und Spezifikationen für die PC-Konfiguration und erfüllt alle Anforderungen des Lastenhefts.
 ### **2. Netzteil-Berechnung**
 
 Für die Netzteil-Berechnung addieren wir die Leistungsaufnahme der einzelnen Komponenten:
