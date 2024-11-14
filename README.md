@@ -1,7 +1,3 @@
-Hier ist eine detaillierte Anleitung für die PC-Konfiguration für einen Fotografen, Videografen und YouTuber mit einem Budget von 2200 €. Ich werde das Lastenheft und das Pflichtenheft erstellen und die Netzteilkalkulation berücksichtigen.
-
----
-
 ### 1. Lastenheft
 
 **Zielgruppe:**  
@@ -103,7 +99,3 @@ Ein 750W-Netzteil ist daher ausreichend und bietet eine Reserve für zukünftige
 | **Gesamt**      |                                  | **2130 €** |
 
 ---
-
-Die Gesamtkosten von ca. 2130 € liegen knapp unter dem Budget. Dies ermöglicht eventuell kleinere Anpassungen oder Zubehör.
-
-Falls du weitere Details oder spezifische Komponentenempfehlungen benötigst, stehe ich dir gerne zur Verfügung!
