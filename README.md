@@ -1,115 +1,82 @@
-### 1. Lastenheft
+Hier ist das vollständige Dokument mit allen Informationen für die PC-Konfiguration eines Fotografen, Videografen und YouTubers.
+
 ---
 
-### **Lastenheft: PC-Konfiguration für Fotografen, Videografen und YouTuber**
+# **Projekt: PC-Konfiguration für Foto- und Videobearbeitung**
 
 **Projektname**: PC-Konfiguration für Foto- und Videobearbeitung  
 **Budget**: 2200 €  
-**Zielgruppe**: Professioneller Einsatz im Bereich Fotografie, Videografie und YouTube-Content-Erstellung  
+**Zielgruppe**: Fotografen, Videografen und YouTuber  
 **Einsatzgebiet**: Video- und Bildbearbeitung, Rendering, Mehrfachmonitor-Betrieb
 
 ---
 
-### **1. Anwendungszweck und Zielsetzung**
+## **1. Lastenheft**
+
+### **1.1 Anwendungszweck und Zielsetzung**
 
 Der PC soll als Arbeitsstation für die Bearbeitung von hochauflösendem Foto- und Videomaterial (4K- und teilweise 6K-Videos) eingesetzt werden. Zudem soll der PC in der Lage sein, umfangreiche Rendering-Prozesse und das Multitasking zwischen Bearbeitungsprogrammen (Adobe Premiere Pro, Photoshop, DaVinci Resolve) reibungslos zu bewältigen. Die Konfiguration sollte dabei maximale Performance bei gleichzeitig niedriger Lautstärke und Energieeffizienz bieten.
 
----
+### **1.2 Technische Anforderungen**
 
-### **2. Technische Anforderungen**
-
-#### 2.1. Prozessor (CPU)
+#### 1.2.1 Prozessor (CPU)
 - **Anforderung**: Hochleistungsfähiger Mehrkernprozessor mit mindestens 12 Kernen und 24 Threads für rechenintensive Bearbeitungssoftware.
-- **Begründung**: Multithreading wird benötigt, um große Video-Renderings schnell zu verarbeiten und effizientes Multitasking zu ermöglichen.
 - **Beispiel**: AMD Ryzen 9 5900X oder Intel Core i9-12900K
 
-#### 2.2. Arbeitsspeicher (RAM)
+#### 1.2.2 Arbeitsspeicher (RAM)
 - **Kapazität**: Mindestens 32 GB, aufrüstbar auf 64 GB
-- **Begründung**: Die Größe von Projekten und das gleichzeitige Verwenden mehrerer Anwendungen benötigen ausreichend RAM, um Verzögerungen zu vermeiden.
 
-#### 2.3. Grafikkarte (GPU)
+#### 1.2.3 Grafikkarte (GPU)
 - **Anforderung**: Leistungsstarke GPU mit mindestens 8 GB VRAM und CUDA-Kernen (bei NVIDIA) oder entsprechende Kerne bei AMD.
-- **Begründung**: GPU-Beschleunigung ist für Videoeffekte, Renderings und Farbkorrekturprozesse erforderlich.
 - **Beispiel**: NVIDIA GeForce RTX 3060 Ti oder AMD Radeon RX 6700 XT
 
-#### 2.4. Speicher
-- **Primärer Speicher (System-SSD)**: 1 TB NVMe SSD für das Betriebssystem und installierte Programme, um schnelle Ladezeiten zu gewährleisten.
-- **Sekundärer Speicher (Projekt-SSD)**: 1 TB SATA SSD oder HDD zur Speicherung von Projektdateien und Medien, damit auf Daten schnell zugegriffen werden kann.
-- **Begründung**: NVMe SSDs bieten extrem schnelle Schreib- und Lesezeiten und sind notwendig für effiziente Arbeitsprozesse.
+#### 1.2.4 Speicher
+- **Primäre SSD**: 1 TB NVMe SSD für das Betriebssystem und Programme
+- **Sekundäre SSD**: 1 TB SATA SSD oder HDD für Projektdaten
 
-#### 2.5. Mainboard
-- **Anforderung**: ATX-Mainboard mit Unterstützung für PCIe 4.0 (für SSDs und GPUs) und ausreichend Anschlüssen (USB, HDMI/DisplayPort, SATA).
-- **Begründung**: PCIe 4.0 bietet schnellere Datenübertragung für Speicher und GPU, was für professionelle Bearbeitung vorteilhaft ist.
+#### 1.2.5 Mainboard
+- **Anforderung**: ATX-Mainboard mit Unterstützung für PCIe 4.0 und ausreichende Anschlussmöglichkeiten.
 
-#### 2.6. Netzteil
+#### 1.2.6 Netzteil
 - **Leistung**: 750 Watt, 80 Plus Gold oder höher zertifiziert, leiser Betrieb
-- **Begründung**: Ein hochwertiges Netzteil bietet stabile Leistung, ist energieeffizient und sorgt für ausreichende Reserve für die Komponenten.
 
-#### 2.7. Gehäuse
+#### 1.2.7 Gehäuse
 - **Anforderung**: Midi-Tower mit guter Belüftung, schallgedämmte Seitenwände und Platz für mindestens drei Lüfter.
-- **Begründung**: Ein gut belüftetes Gehäuse und schallgedämmte Wände sorgen für einen leisen Betrieb und schützen die Komponenten vor Überhitzung.
 
-#### 2.8. Kühlung
+#### 1.2.8 Kühlung
 - **Anforderung**: Luftkühlung mit hochwertigen, leisen Lüftern oder optional eine kompakte Wasserkühlung für die CPU.
-- **Begründung**: Hohe Leistung erzeugt Wärme, die zuverlässig und geräuscharm abgeführt werden muss.
 
----
+### **1.3 Peripheriegeräte**
 
-### **3. Peripheriegeräte**
-
-#### 3.1. Monitor
+#### 1.3.1 Monitor
 - **Auflösung**: Mindestens 4K, 27 Zoll, hohe Farbtreue (AdobeRGB-Abdeckung von mindestens 90%)
-- **Begründung**: Für die professionelle Bildbearbeitung ist ein Monitor mit hoher Auflösung und exakter Farbwiedergabe erforderlich.
 
-#### 3.2. Maus und Tastatur
+#### 1.3.2 Maus und Tastatur
 - **Anforderung**: Ergonomische Maus und Tastatur, drahtgebunden oder drahtlos.
-- **Begründung**: Längeres Arbeiten erfordert bequeme und präzise Peripheriegeräte.
 
----
+### **1.4 Anforderungen an Geräuschpegel und Energieverbrauch**
 
-### **4. Anforderungen an Geräuschpegel und Energieverbrauch**
+- **Lautstärke**: Die Komponenten sollen möglichst leise arbeiten.
+- **Energieeffizienz**: Das System sollte im Idle-Modus energiesparend arbeiten.
 
-- **Lautstärke**: Die Komponenten sollen möglichst leise arbeiten (d.h., Lüfter und Kühlsysteme sollten auf geringe Lautstärke optimiert sein).
-- **Energieeffizienz**: Das System sollte im Idle-Modus und bei wenig anspruchsvollen Aufgaben energiesparend arbeiten.
-  
----
-
-### **5. Wartung und Aufrüstbarkeit**
+### **1.5 Wartung und Aufrüstbarkeit**
 
 - **Aufrüstbarkeit**: Der PC sollte eine einfache Erweiterung von Arbeitsspeicher, Festplatten und Grafikkarte ermöglichen.
-- **Wartung**: Komponenten sollten leicht zugänglich und im Falle eines Defekts einfach auszutauschen sein.
+- **Wartung**: Komponenten sollten leicht zugänglich und einfach auszutauschen sein.
 
----
-
-### **6. Bezugsquellen**
+### **1.6 Bezugsquellen**
 
 - **Anforderung**: Alle Komponenten müssen als Neuware über offizielle deutsche Händler bezogen werden.
-- **Begründung**: Nur Neuware gewährleistet Garantieansprüche und Zuverlässigkeit.
 
----
-
-### **7. Budget**
+### **1.7 Budget**
 
 - **Obergrenze**: 2200 € für die Hardware inkl. Peripheriegeräte (Monitor, Maus, Tastatur).
-- **Hinweis**: Kosten für Software, Versand, Zubehör oder zusätzliche Peripherie werden separat aufgeführt und nicht in das Hardware-Budget eingerechnet.
 
 ---
 
-Dieses Lastenheft beschreibt die grundlegenden Anforderungen für die PC-Konfiguration und dient als Basis für die Detailplanung und Auswahl der Komponenten.
-  
-Hier ist das Pflichtenheft inklusive der Konfigurationsliste für den PC eines Fotografen, Videografen und YouTubers mit einem Budget von 2200 €.
+## **2. Pflichtenheft**
 
----
-
-### **Pflichtenheft: PC-Konfiguration für Foto- und Videobearbeitung**
-
-**Projektname**: PC-Konfiguration für Foto- und Videobearbeitung  
-**Budget**: 2200 €  
-**Ziel**: Erstellung eines leistungsfähigen und energiesparenden PCs zur Bearbeitung von hochauflösendem Foto- und Videomaterial mit leisem Betrieb und hochwertigen Komponenten.
-
----
-
-### **1. Systemkomponenten**
+### **2.1 Systemkomponenten und Konfigurationsliste**
 
 | Komponente      | Modell                                  | Spezifikationen                                 | Preis (€) |
 |-----------------|-----------------------------------------|-------------------------------------------------|-----------|
@@ -127,11 +94,9 @@ Hier ist das Pflichtenheft inklusive der Konfigurationsliste für den PC eines F
 
 **Gesamtsumme**: **2130 €**
 
----
+### **2.2 Netzteil-Berechnung**
 
-### **2. Netzteil-Berechnung**
-
-Für die Netzteil-Berechnung addieren wir die Leistungsaufnahme der einzelnen Komponenten:
+Gesamtverbrauch der Komponenten:
 
 - **CPU**: 105 W
 - **GPU**: 200 W
@@ -143,69 +108,31 @@ Für die Netzteil-Berechnung addieren wir die Leistungsaufnahme der einzelnen Ko
 
 **Gesamter Stromverbrauch**: 490 W
 
-Empfohlenes Netzteil: **750 W**, um eine ausreichende Reserve für zukünftige Erweiterungen und Stabilität zu gewährleisten.
+**Empfohlenes Netzteil**: 750 W für ausreichende Reserve und Stabilität.
+
+### **2.3 Anforderungen und Begründungen**
+
+1. **CPU**: AMD Ryzen 9 5900X für hohe Multithreading-Leistung.
+2. **GPU**: NVIDIA GeForce RTX 3060 Ti für CUDA-Beschleunigung bei Videobearbeitung.
+3. **RAM**: 32 GB für große Mediendateien und Multitasking.
+4. **Speicher**: Schnelle NVMe SSD für das Betriebssystem und Programme, zusätzliche SSD für Projekte.
+5. **Mainboard**: ASUS TUF Gaming B550-PLUS für Erweiterungsmöglichkeiten und PCIe 4.0.
+6. **Netzteil**: Be Quiet! Pure Power 11 FM für Stabilität und leisen Betrieb.
+7. **Gehäuse**: Fractal Design Define R5, schallgedämmt und mit guter Belüftung.
+8. **Monitor**: Dell UltraSharp U2720Q für 4K-Auflösung und hohe Farbgenauigkeit.
+9. **Kühlung**: Be Quiet! Dark Rock 4 für leisen Betrieb.
+
+### **2.4 Energieeffizienz und Lautstärke**
+
+- **Lautstärke**: Alle Komponenten sind auf leisen Betrieb ausgelegt.
+- **Energieeffizienz**: Komponenten unterstützen Energiesparmodi.
+
+### **2.5 Aufrüstbarkeit**
+
+- **RAM**: Aufrüstbar auf 64 GB.
+- **Speicher**: Zusätzliche SSDs und HDDs möglich.
+- **Erweiterungskarten**: Mainboard bietet Platz für weitere Karten.
 
 ---
 
-### **3. Anforderungen und Begründungen**
-
-1. **Prozessor (CPU)**:
-   - **Begründung**: Der AMD Ryzen 9 5900X bietet starke Multithreading-Fähigkeiten für Anwendungen wie Adobe Premiere Pro und Photoshop, die hohe Rechenleistung erfordern.
-
-2. **Grafikkarte (GPU)**:
-   - **Begründung**: Die NVIDIA GeForce RTX 3060 Ti unterstützt CUDA-Beschleunigung, was für Rendering und Videobearbeitung wichtig ist.
-
-3. **Arbeitsspeicher (RAM)**:
-   - **Begründung**: 32 GB RAM sind notwendig für Multitasking und große Mediendateien. Die RAM-Kapazität kann später bei Bedarf aufgerüstet werden.
-
-4. **Speicher**:
-   - **Begründung**: Die primäre NVMe SSD ermöglicht schnelle Ladezeiten für Betriebssystem und Anwendungen, während die sekundäre SSD ausreichend Speicher für Projektdateien bietet.
-
-5. **Mainboard**:
-   - **Begründung**: Das ASUS TUF Gaming B550-PLUS unterstützt PCIe 4.0 und bietet mehrere Anschlüsse und Erweiterungsmöglichkeiten.
-
-6. **Netzteil**:
-   - **Begründung**: Ein 750W-Netzteil sorgt für eine stabile und effiziente Stromversorgung und bietet genug Reserven.
-
-7. **Gehäuse**:
-   - **Begründung**: Das Fractal Design Define R5 ist schallgedämmt und sorgt für leisen Betrieb.
-
-8. **Monitor**:
-   - **Begründung**: Der Dell UltraSharp U2720Q bietet 4K-Auflösung und hohe Farbgenauigkeit, ideal für professionelle Bildbearbeitung.
-
-9. **Kühlung**:
-   - **Begründung**: Der Be Quiet! Dark Rock 4 sorgt für leisen Betrieb und eine effiziente Kühlung der CPU.
-
----
-
-### **4. Energieeffizienz und Lautstärke**
-
-- **Lautstärke**: Alle Komponenten, insbesondere Netzteil, Gehäuse und CPU-Kühler, wurden so gewählt, dass der Betrieb des PCs so leise wie möglich bleibt.
-- **Energieeffizienz**: Alle Hauptkomponenten sind energieeffizient und unterstützen Energiesparmodi im Idle-Zustand.
-
----
-
-### **5. Aufrüstbarkeit**
-
-- **Arbeitsspeicher**: Aufrüstbar auf 64 GB.
-- **Speicher**: Möglichkeit zum Einbau zusätzlicher SSDs und Festplatten.
-- **Erweiterungskarten**: Mainboard unterstützt zusätzliche PCIe-Karten.
-
----
-
-Dieses Pflichtenheft enthält die detaillierte Konfigurationsliste und Spezifikationen für die PC-Konfiguration und erfüllt alle Anforderungen des Lastenhefts.
-### **2. Netzteil-Berechnung**
-
-Für die Netzteil-Berechnung addieren wir die Leistungsaufnahme der einzelnen Komponenten:
-
-- **CPU**: 105 W
-- **GPU**: 200 W
-- **RAM**: 2 x 5 W = 10 W
-- **SSD**: 2 x 5 W = 10 W
-- **Mainboard**: 50 W
-- **Lüfter**: 3 x 5 W = 15 W
-- **Reserve**: 100 W
-
-**Gesamter Stromverbrauch**: 490 W
-
-Empfohlenes Netzteil: **750 W**, um eine ausreichende Reserve für zukünftige Erweiterungen und Stabilität zu gewährleisten.
+Dieses Dokument stellt die vollständige Spezifikation und Konfigurationsliste für den PC zusammen, basierend auf den Anforderungen des Lastenhefts und der Komponentenliste des Pflichtenhefts.
