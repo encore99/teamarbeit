@@ -98,7 +98,7 @@ Der PC soll als Arbeitsstation für die Bearbeitung von hochauflösendem Foto- u
 
 Gesamtverbrauch der Komponenten:
 
-- **CPU**: 105 W
+- **CPU**: 125 W
 - **GPU**: 200 W
 - **RAM**: 2 x 5 W = 10 W
 - **SSD**: 2 x 5 W = 10 W
@@ -106,13 +106,13 @@ Gesamtverbrauch der Komponenten:
 - **Lüfter**: 3 x 5 W = 15 W
 - **Reserve**: 100 W
 
-**Gesamter Stromverbrauch**: 490 W
+**Gesamter Stromverbrauch**: 510 W
 
 **Empfohlenes Netzteil**: 750 W für ausreichende Reserve und Stabilität.
 
 ### **2.3 Anforderungen und Begründungen**
 
-1. **CPU**: AMD Ryzen 9 5900X für hohe Multithreading-Leistung.
+1. **CPU**: AMD Ryzen 9 7950X für hohe Multithreading-Leistung.
 2. **GPU**: NVIDIA GeForce RTX 3060 Ti für CUDA-Beschleunigung bei Videobearbeitung.
 3. **RAM**: 32 GB für große Mediendateien und Multitasking.
 4. **Speicher**: Schnelle NVMe SSD für das Betriebssystem und Programme, zusätzliche SSD für Projekte.
