@@ -1,10 +1,4 @@
 ### 1. Lastenheft
-
-**Zielgruppe:**  
-Ein PC für einen Fotografen, Videografen und YouTuber, der auf effiziente Verarbeitung von Foto- und Videomaterial setzt, energiesparend und leise läuft und die Bearbeitung großer Dateien unterstützt.
-
-Hier ist ein fiktives Lastenheft für die PC-Konfiguration eines Fotografen, Videografen und YouTubers mit einem Budget von 2200 €. Dieses Lastenheft beschreibt die Anforderungen und Spezifikationen im Detail.
-
 ---
 
 ### **Lastenheft: PC-Konfiguration für Fotografen, Videografen und YouTuber**
