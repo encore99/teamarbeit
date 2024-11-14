@@ -20,8 +20,8 @@ Der PC soll als Arbeitsstation für die Bearbeitung von hochauflösendem Foto- u
 ### **1.2 Technische Anforderungen**
 
 #### 1.2.1 Prozessor (CPU)
-- **Anforderung**: Hochleistungsfähiger Mehrkernprozessor mit mindestens 12 Kernen und 24 Threads für rechenintensive Bearbeitungssoftware.
-- **Beispiel**: AMD Ryzen 9 5900X oder Intel Core i9-12900K
+- **Anforderung**: Hochleistungsfähiger Mehrkernprozessor mit mindestens 16 Kernen und 32 Threads für rechenintensive Bearbeitungssoftware.
+- **Beispiel**: AMD Ryzen 9 7950X oder Intel Core i9-12900K
 
 #### 1.2.2 Arbeitsspeicher (RAM)
 - **Kapazität**: Mindestens 32 GB, aufrüstbar auf 64 GB
@@ -80,7 +80,7 @@ Der PC soll als Arbeitsstation für die Bearbeitung von hochauflösendem Foto- u
 
 | Komponente      | Modell                                  | Spezifikationen                                 | Preis (€) |
 |-----------------|-----------------------------------------|-------------------------------------------------|-----------|
-| **CPU**         | AMD Ryzen 9 5900X                       | 12 Kerne, 24 Threads, 3.7 GHz (max. 4.8 GHz)    | 500       |
+| **CPU**         | AMD Ryzen 9 5900X                       | 16 Kerne, 32 Threads, 16x 4.50GHz    | 500       |
 | **GPU**         | NVIDIA GeForce RTX 3060 Ti              | 8 GB GDDR6 VRAM, CUDA-Unterstützung             | 450       |
 | **Arbeitsspeicher** | Corsair Vengeance LPX 32 GB        | 2 x 16 GB, DDR4, 3200 MHz                       | 120       |
 | **Primäre SSD** | Samsung 970 EVO Plus NVMe SSD           | 1 TB, PCIe 3.0, bis zu 3500 MB/s Lesen          | 100       |
