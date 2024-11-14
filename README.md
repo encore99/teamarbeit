@@ -80,7 +80,7 @@ Der PC soll als Arbeitsstation für die Bearbeitung von hochauflösendem Foto- u
 
 | Komponente      | Modell                                  | Spezifikationen                                 | Preis (€) |
 |-----------------|-----------------------------------------|-------------------------------------------------|-----------|
-| **CPU**         | AMD Ryzen 9 5900X                       | 16 Kerne, 32 Threads, 16x 4.50GHz    | 500       |
+| **CPU**         | AMD Ryzen 9 7950X                       | 16 Kerne, 32 Threads, 16x 4.50GHz    | 500       |
 | **GPU**         | NVIDIA GeForce RTX 3060 Ti              | 8 GB GDDR6 VRAM, CUDA-Unterstützung             | 450       |
 | **Arbeitsspeicher** | Corsair Vengeance LPX 32 GB        | 2 x 16 GB, DDR4, 3200 MHz                       | 120       |
 | **Primäre SSD** | Samsung 970 EVO Plus NVMe SSD           | 1 TB, PCIe 3.0, bis zu 3500 MB/s Lesen          | 100       |
