@@ -1,5 +1,3 @@
-Hier ist das vollständige Dokument mit allen Informationen für die PC-Konfiguration eines Fotografen, Videografen und YouTubers.
-
 ---
 
 # **Projekt: PC-Konfiguration für Foto- und Videobearbeitung**
