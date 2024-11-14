@@ -99,58 +99,103 @@ Dieses Lastenheft beschreibt die grundlegenden Anforderungen für die PC-Konfigu
   
 ### 2. Pflichtenheft
 
-#### Komponentenliste und Auswahl:
+Hier ist das Pflichtenheft inklusive der Konfigurationsliste für den PC eines Fotografen, Videografen und YouTubers mit einem Budget von 2200 €.
+
+---
+
+### **Pflichtenheft: PC-Konfiguration für Foto- und Videobearbeitung**
+
+**Projektname**: PC-Konfiguration für Foto- und Videobearbeitung  
+**Budget**: 2200 €  
+**Ziel**: Erstellung eines leistungsfähigen und energiesparenden PCs zur Bearbeitung von hochauflösendem Foto- und Videomaterial mit leisem Betrieb und hochwertigen Komponenten.
+
+---
+
+### **1. Systemkomponenten**
+
+| Komponente      | Modell                                  | Spezifikationen                                 | Preis (€) |
+|-----------------|-----------------------------------------|-------------------------------------------------|-----------|
+| **CPU**         | AMD Ryzen 9 5900X                       | 12 Kerne, 24 Threads, 3.7 GHz (max. 4.8 GHz)    | 500       |
+| **GPU**         | NVIDIA GeForce RTX 3060 Ti              | 8 GB GDDR6 VRAM, CUDA-Unterstützung             | 450       |
+| **Arbeitsspeicher** | Corsair Vengeance LPX 32 GB        | 2 x 16 GB, DDR4, 3200 MHz                       | 120       |
+| **Primäre SSD** | Samsung 970 EVO Plus NVMe SSD           | 1 TB, PCIe 3.0, bis zu 3500 MB/s Lesen          | 100       |
+| **Sekundäre SSD** | Crucial MX500 SSD                    | 1 TB, SATA 6 Gb/s, bis zu 560 MB/s Lesen        | 70        |
+| **Mainboard**   | ASUS TUF Gaming B550-PLUS               | ATX, PCIe 4.0, 4 x DDR4, USB 3.2                | 150       |
+| **Netzteil**    | Be Quiet! Pure Power 11 FM              | 750 W, 80 Plus Gold, leiser Betrieb             | 100       |
+| **Gehäuse**     | Fractal Design Define R5                | Schalldämmung, Midi-Tower, ATX-kompatibel       | 90        |
+| **CPU-Kühler**  | Be Quiet! Dark Rock 4                   | Luftkühlung, leiser Betrieb                     | 70        |
+| **Monitor**     | Dell UltraSharp U2720Q                  | 27 Zoll, 4K-Auflösung, hohe Farbgenauigkeit     | 450       |
+| **Maus & Tastatur** | Logitech MK270                    | Kabellos, ergonomisches Design                  | 30        |
+
+**Gesamtsumme**: **2130 €**
+
+---
+
+### **2. Netzteil-Berechnung**
+
+Für die Netzteil-Berechnung addieren wir die Leistungsaufnahme der einzelnen Komponenten:
+
+- **CPU**: 105 W
+- **GPU**: 200 W
+- **RAM**: 2 x 5 W = 10 W
+- **SSD**: 2 x 5 W = 10 W
+- **Mainboard**: 50 W
+- **Lüfter**: 3 x 5 W = 15 W
+- **Reserve**: 100 W
+
+**Gesamter Stromverbrauch**: 490 W
+
+Empfohlenes Netzteil: **750 W**, um eine ausreichende Reserve für zukünftige Erweiterungen und Stabilität zu gewährleisten.
+
+---
+
+### **3. Anforderungen und Begründungen**
 
 1. **Prozessor (CPU)**:
-   - **Modell**: AMD Ryzen 9 5900X (12 Kerne, 24 Threads) oder Intel Core i9-12900K
-   - **Preis**: ca. 500 €
-   - **Grund für Wahl**: Starke Multithreading-Leistung, ideal für Videobearbeitung und Bildbearbeitung.
+   - **Begründung**: Der AMD Ryzen 9 5900X bietet starke Multithreading-Fähigkeiten für Anwendungen wie Adobe Premiere Pro und Photoshop, die hohe Rechenleistung erfordern.
 
 2. **Grafikkarte (GPU)**:
-   - **Modell**: NVIDIA GeForce RTX 3060 Ti oder AMD Radeon RX 6700 XT
-   - **Preis**: ca. 450 €
-   - **Grund für Wahl**: Unterstützt GPU-Beschleunigung bei Videobearbeitung und Rendering.
+   - **Begründung**: Die NVIDIA GeForce RTX 3060 Ti unterstützt CUDA-Beschleunigung, was für Rendering und Videobearbeitung wichtig ist.
 
 3. **Arbeitsspeicher (RAM)**:
-   - **Kapazität**: 32 GB DDR4 (2x16 GB) mit 3200 MHz
-   - **Preis**: ca. 120 €
-   - **Grund für Wahl**: Ausreichend für Multitasking und große Medienprojekte.
+   - **Begründung**: 32 GB RAM sind notwendig für Multitasking und große Mediendateien. Die RAM-Kapazität kann später bei Bedarf aufgerüstet werden.
 
 4. **Speicher**:
-   - **Primäre SSD** (für OS und Programme): 1 TB NVMe SSD (z.B. Samsung 970 EVO Plus)
-     - **Preis**: ca. 100 €
-   - **Sekundäre SSD** (für Projekte): 1 TB SATA SSD (z.B. Crucial MX500)
-     - **Preis**: ca. 70 €
-   - **Grund für Wahl**: Schnelle Zugriffszeiten für Betriebssystem und Programme sowie ausreichend Speicher für Projekte.
+   - **Begründung**: Die primäre NVMe SSD ermöglicht schnelle Ladezeiten für Betriebssystem und Anwendungen, während die sekundäre SSD ausreichend Speicher für Projektdateien bietet.
 
 5. **Mainboard**:
-   - **Modell**: ASUS TUF Gaming B550-PLUS (für AMD) oder MSI Z690-A PRO (für Intel)
-   - **Preis**: ca. 150 €
-   - **Grund für Wahl**: Gute Kühlung und Energieeffizienz, kompatibel mit gewählter CPU.
+   - **Begründung**: Das ASUS TUF Gaming B550-PLUS unterstützt PCIe 4.0 und bietet mehrere Anschlüsse und Erweiterungsmöglichkeiten.
 
 6. **Netzteil**:
-   - **Modell**: Be Quiet! Pure Power 11 FM 750W 80+ Gold
-   - **Preis**: ca. 100 €
-   - **Grund für Wahl**: Ausreichend Leistung für alle Komponenten, energieeffizient, leiser Betrieb.
+   - **Begründung**: Ein 750W-Netzteil sorgt für eine stabile und effiziente Stromversorgung und bietet genug Reserven.
 
 7. **Gehäuse**:
-   - **Modell**: Fractal Design Define R5 (Midi-Tower)
-   - **Preis**: ca. 90 €
-   - **Grund für Wahl**: Gutes Kühlsystem, leiser Betrieb und genügend Platz für Komponenten.
+   - **Begründung**: Das Fractal Design Define R5 ist schallgedämmt und sorgt für leisen Betrieb.
 
-8. **Kühlsystem**:
-   - **Modell**: Be Quiet! Dark Rock 4 (CPU-Kühler)
-   - **Preis**: ca. 70 €
-   - **Grund für Wahl**: Leistungsstarke Kühlung, geräuscharm.
+8. **Monitor**:
+   - **Begründung**: Der Dell UltraSharp U2720Q bietet 4K-Auflösung und hohe Farbgenauigkeit, ideal für professionelle Bildbearbeitung.
 
-9. **Monitor**:
-   - **Modell**: Dell UltraSharp U2720Q (4K, 27 Zoll)
-   - **Preis**: ca. 450 €
-   - **Grund für Wahl**: 4K-Auflösung und hohe Farbgenauigkeit, ideal für Fotobearbeitung.
+9. **Kühlung**:
+   - **Begründung**: Der Be Quiet! Dark Rock 4 sorgt für leisen Betrieb und eine effiziente Kühlung der CPU.
 
-10. **Peripherie**:
-    - **Maus und Tastatur**: Logitech MK270 (ca. 30 €)
+---
 
+### **4. Energieeffizienz und Lautstärke**
+
+- **Lautstärke**: Alle Komponenten, insbesondere Netzteil, Gehäuse und CPU-Kühler, wurden so gewählt, dass der Betrieb des PCs so leise wie möglich bleibt.
+- **Energieeffizienz**: Alle Hauptkomponenten sind energieeffizient und unterstützen Energiesparmodi im Idle-Zustand.
+
+---
+
+### **5. Aufrüstbarkeit**
+
+- **Arbeitsspeicher**: Aufrüstbar auf 64 GB.
+- **Speicher**: Möglichkeit zum Einbau zusätzlicher SSDs und Festplatten.
+- **Erweiterungskarten**: Mainboard unterstützt zusätzliche PCIe-Karten.
+
+---
+
+Dieses Pflichtenheft enthält die detaillierte Konfigurationsliste und Spezifikationen für die PC-Konfiguration und erfüllt alle Anforderungen des Lastenhefts.
 #### Netzteil-Kalkulation
 
 Gesamtverbrauch der Komponenten (ungefähre Schätzung):
